@@ -3785,6 +3785,25 @@
         "aliases": []
     },
     {
+        "name": "emailjs",
+        "altnames": [],
+        "tags": [
+            "javascript"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "original-wordmark",
+                "plain"
+            ],
+            "font": [
+                "original"
+            ]
+        },
+        "color": "#ff8434",
+        "aliases": []
+    },
+    {
         "name": "embeddedc",
         "altnames": [],
         "tags": [
@@ -12542,7 +12561,7 @@
         },
         "color": "#8cc445",
         "aliases": []
-    },  
+    },
     {
         "name": "shadcn",
         "altnames": [],
