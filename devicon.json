@@ -3794,14 +3794,23 @@
             "svg": [
                 "original",
                 "original-wordmark",
-                "plain"
+                "plain-wordmark"
             ],
             "font": [
                 "original"
             ]
         },
         "color": "#ff8434",
-        "aliases": []
+        "aliases": [
+            {
+                "base": "original",
+                "alias": "plain"
+            },
+            {
+                "base": "original-wordmark",
+                "alias": "plain-wordmark"
+            }
+        ]
     },
     {
         "name": "embeddedc",
