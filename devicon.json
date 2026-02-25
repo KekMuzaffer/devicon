@@ -3797,7 +3797,8 @@
                 "plain-wordmark"
             ],
             "font": [
-                "original"
+                "original",
+                "plain-wordmark"
             ]
         },
         "color": "#ff8434",
@@ -3805,10 +3806,6 @@
             {
                 "base": "original",
                 "alias": "plain"
-            },
-            {
-                "base": "original-wordmark",
-                "alias": "plain-wordmark"
             }
         ]
     },
