@@ -15044,6 +15044,27 @@
         "aliases": []
     },
     {
+        "name": "vlang",
+        "altnames": [],
+        "tags": [
+            "programming",
+            "language"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "plain",
+                "line"
+            ],
+            "font": [
+                "original",
+                "plain"
+            ]
+        },
+        "color": "#5d87bf",
+        "aliases": []
+    },
+    {
         "name": "vscode",
         "altnames": [
             "visualstudiocode"
