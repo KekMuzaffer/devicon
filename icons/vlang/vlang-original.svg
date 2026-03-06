@@ -1,39 +1,7 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
   viewBox="0 0 128 128">
-<defs
-     id="defs1"><clipPath
-       id="_clipPath_8TWIgR1z3pxinjWBiigzcEIrVJKv9Gq4"><rect
-         width="500"
-         height="500"
-         id="rect1"
-         x="0"
-         y="0" /></clipPath><filter
-       id="Hmac7mZraFWHw0G84Yxj4QuzeTFp0E7Y"
-       x="-0.22015058"
-       y="-0.085804492"
-       width="1.4403012"
-       height="1.171609"
-       filterUnits="objectBoundingBox"
-       color-interpolation-filters="sRGB"><feGaussianBlur
-         in="SourceGraphic"
-         stdDeviation="6.440413594258542"
-         id="feGaussianBlur1" /><feOffset
-         dx="0"
-         dy="0"
-         result="pf_100_offsetBlur"
-         id="feOffset1" /><feFlood
-         flood-color="#000000"
-         flood-opacity="0.65"
-         id="feFlood1" /><feComposite
-         in2="pf_100_offsetBlur"
-         operator="in"
-         result="pf_100_dropShadow"
-         id="feComposite1" /><feBlend
-         in="SourceGraphic"
-         in2="pf_100_dropShadow"
-         mode="normal"
-         id="feBlend1" /></filter></defs><g
+<g
      id="layer1"
      transform="translate(-48.300911,-91.20237)"><g
        clip-path="url(#_clipPath_8TWIgR1z3pxinjWBiigzcEIrVJKv9Gq4)"
