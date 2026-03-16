@@ -8547,6 +8547,27 @@
         ]
     },
     {
+        "name": "msbuild",
+        "altnames": [],
+        "tags": [
+            "build",
+            "dotnet"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "plain",
+                "line"
+            ],
+            "font": [
+                "plain",
+                "line"
+            ]
+        },
+        "color": "#5B35DE",
+        "aliases": []
+    },
+    {
         "name": "msdos",
         "altnames": [
             "microsoftdiskoperatingsystem"
